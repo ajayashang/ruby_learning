@@ -1,0 +1,13 @@
+	1. Git init  :  used for initial a repository in local machine and default name is "master"
+	2. Git status : check the current status of a branch
+	3. Git add filename : add the file to track list
+	4. Git commit -m "…"  : commit the change with comments
+	5. Git add Rex : add some files to track list
+	6. Git remote add origin remoteserver : add branch on remote server
+	7. Git push -u remotebranch localbranch:  push or pull code from remotebranch, -u save the realationship
+	8. Git pull : pull code from remote server
+	9. Git diff --staged  : check the diff you staged
+	10. Git reset : unstaged
+	11. Git checkout -- file : last status of the file,undo
+	12.  git rm : remove
+	13.  git branch -d <branch name> : del branch
